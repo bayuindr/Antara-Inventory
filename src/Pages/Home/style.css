@@ -1,0 +1,10 @@
+.tab {
+    display: flex;
+    margin-top: 5%;
+    justify-content: start;
+}
+
+
+.formOr{
+    width: 30%;
+}
